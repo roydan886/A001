@@ -51,9 +51,9 @@ CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
 港澳,#genre#
-凤凰卫视中文台,http://183.1.250.143:8081/hls/37/index.m3u8#http://jyjxy.7766.org:8811/hls/32/index.m3u8#http://218.88.23.227:4000/udp/239.93.1.9:2192#http://124.230.56.113:55555/udp/239.76.246.7:1234
-凤凰卫视资讯台,http://183.1.250.143:8081/hls/36/index.m3u8#http://jyjxy.7766.org:8811/hls/33/index.m3u8#http://218.88.23.227:4000/udp/239.93.0.118:2191#http://124.230.56.113:55555/udp/239.76.246.8:1234
-凤凰卫视香港台,http://183.1.250.143:8081/hls/38/index.m3u8#http://jyjxy.7766.org:8811/hls/34/index.m3u8
+凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 TVB翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#mitv://147.135.39.171:9906/65a4e8350007683646f034780a032936#http://jyjxy.7766.org:8811/hls/36/index.m3u8
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://jyjxy.7766.org:8811/hls/37/index.m3u8
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#
