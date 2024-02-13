@@ -1,6 +1,6 @@
 
 央视,#genre#
-CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e#mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,P2p://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
 CCTV4,P2p://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
