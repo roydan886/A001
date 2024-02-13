@@ -1,6 +1,5 @@
 
 央视,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,P2p://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -27,7 +26,7 @@ CCTV17,P2p://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 辽宁卫视,P2p://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9
 东方卫视,P2p://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
 江苏卫视,P2p://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
-浙江卫视,P2p://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,P2p://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江西卫视,P2p://generationnexxxt.com:19806/d3548b106a7d45b4972427c3a75135ab
 山东卫视,P2p://generationnexxxt.com:19806/be77ccef4df042ab909e0a2586844431
 东南卫视,P2p://generationnexxxt.com:19806/00aae4669ca24ddabf43997323ceef8e
