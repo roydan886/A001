@@ -1,4 +1,4 @@
-中国大陆,#genre#
+央视,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -15,6 +15,9 @@ CCTV12,mitv://generationnexxxt.com:19806/65a52e1e0008b4e1dd7f42ba38ef4a02
 CCTV13,mitv://generationnexxxt.com:19806/65a52dc0000d93bbdd7dd4d235813afb
 CCTV14,mitv://generationnexxxt.com:19806/65a52dc1000332e5dd7dd60b29277892
 CCTV15,mitv://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
+CCTV16,mitv://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
+CCTV17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
+卫视,#genre#
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
 天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
 河北卫视,mitv://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
@@ -40,9 +43,7 @@ CCTV15,mitv://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
 魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-CCTV16,mitv://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
-CCTV17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 Channel [V],mitv://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
 广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
