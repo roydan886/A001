@@ -1,11 +1,11 @@
 
 央视,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://175.178.236.58:8088/china/ysp.php?ch=cctv1
 CCTV1,http://36.129.204.120:880/CCD303.m3u8
-CCTV1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,http://180.97.247.27/tlivectfree-cdn.ysp.cctv.cn/ysp/12022576801.m3u8
 CCTV1,http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
