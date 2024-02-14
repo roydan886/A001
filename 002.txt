@@ -227,19 +227,6 @@ CCTV17,http://xxy.x3322.net:4022/rtp/239.77.1.121:5146
 CCTV17,http://xxy.x3322.net:4022/rtp/239.77.0.198:5146
 CCTV17,http://xxy.x3322.net:4022/rtp/239.77.0.115:5146
 CCTV17,http://xxy.x3322.net:4022/rtp/239.77.1.123:5146
-CCTV4K,http://xxy.x3322.net:4022/rtp/239.77.0.194:5146
-CCTV4K,http://xxy.x3322.net:4022/rtp/239.77.0.174:5146
-CCTV4K,http://xxy.x3322.net:4022/rtp/239.77.1.180:5146
-CCTV8K 8K,http://xxy.x3322.net:4022/rtp/239.253.43.106:5146
-CGTN英语,http://xxy.x3322.net:4022/rtp/239.77.0.199:5146
-CGTN英语,http://xxy.x3322.net:4022/rtp/239.77.0.45:5146
-CGTN英语,http://xxy.x3322.net:4022/rtp/239.77.1.27:5146
-CGTN Documentary,http://xxy.x3322.net:4022/rtp/239.253.43.122:5146
-CGTN西班牙语,http://xxy.x3322.net:4022/rtp/239.77.0.221:5146
-CGTN法语,http://xxy.x3322.net:4022/rtp/239.77.0.228:5146
-CGTN阿拉伯语,http://xxy.x3322.net:4022/rtp/239.253.43.200:5146
-CGTN俄语,http://xxy.x3322.net:4022/rtp/239.253.43.201:5146
-
 
 卫视,#genre#
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
@@ -601,19 +588,6 @@ CGTN俄语,http://xxy.x3322.net:4022/rtp/239.253.43.201:5146
 三沙卫视,http://xxy.x3322.net:4022/rtp/239.77.1.117:5146
 延边卫视,http://xxy.x3322.net:4022/rtp/239.77.0.10:5146
 延边卫视,http://xxy.x3322.net:4022/rtp/239.77.1.99:5146
-
-珠江台,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
-快乐垂钓,mitv://generationnexxxt.com:19806/65a4f19a000ece67dc92e0b05e060435
-魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
-五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
-广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
-Channel [V],mitv://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
-CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
-广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
-CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
-CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
-
 
 港澳,#genre#
 凤凰中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
@@ -1076,6 +1050,18 @@ MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
 剧场,#genre#
+珠江台,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
+快乐垂钓,mitv://generationnexxxt.com:19806/65a4f19a000ece67dc92e0b05e060435
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
+广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+Channel [V],mitv://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
+CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
+CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
+
 CHC动作电影,http://36.129.204.120:880/CCN151.m3u8
 CHC高清电影,http://36.129.204.120:880/CCN152.m3u8
 CHC家庭影院,http://36.129.204.120:880/CCN153.m3u8
