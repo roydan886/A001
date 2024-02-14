@@ -1268,6 +1268,25 @@ CGTN俄语,http://xxy.x3322.net:4022/rtp/239.253.43.201:5146
 延边卫视,http://xxy.x3322.net:4022/rtp/239.77.0.10:5146
 延边卫视,http://xxy.x3322.net:4022/rtp/239.77.1.99:5146
 
+测试,#genre#
+CCTV1綜合,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2財經,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3綜藝,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4中文國際,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5體育,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+體育賽事,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6電影,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7國防軍事,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8電視劇,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9紀錄,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10科教,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11戲曲,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12社會與法,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13新聞,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14少兒,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15音樂,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16奧林匹克,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17農業農村,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 
 
 
