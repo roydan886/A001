@@ -237,6 +237,8 @@ CCTV17,http://xxy.x3322.net:4022/rtp/239.77.1.123:5146
 星空卫视,mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
 大湾区卫视,mitv://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
 
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
 北京卫视,http://36.129.204.120:880/DX15.m3u8
 东方卫视,http://36.129.204.120:880/dx35.m3u8
 广东卫视,http://36.129.204.120:880/CCN129.m3u8
