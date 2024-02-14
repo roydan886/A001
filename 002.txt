@@ -136,18 +136,6 @@ CCTV17,http://ruoshui.space:554/rtp/239.77.1.121:5146
 CCTV17,http://ruoshui.space:554/rtp/239.77.0.198:5146
 CCTV17,http://ruoshui.space:554/rtp/239.77.0.115:5146
 CCTV17,http://ruoshui.space:554/rtp/239.77.1.123:5146
-CCTV4K,http://ruoshui.space:554/rtp/239.77.0.194:5146
-CCTV4K,http://ruoshui.space:554/rtp/239.77.0.174:5146
-CCTV4K,http://ruoshui.space:554/rtp/239.77.1.180:5146
-CCTV8K 8K,http://ruoshui.space:554/rtp/239.253.43.106:5146
-CGTN英语,http://ruoshui.space:554/rtp/239.77.0.199:5146
-CGTN英语,http://ruoshui.space:554/rtp/239.77.0.45:5146
-CGTN英语,http://ruoshui.space:554/rtp/239.77.1.27:5146
-CGTN Documentary,http://ruoshui.space:554/rtp/239.253.43.122:5146
-CGTN西班牙语,http://ruoshui.space:554/rtp/239.77.0.221:5146
-CGTN法语,http://ruoshui.space:554/rtp/239.77.0.228:5146
-CGTN阿拉伯语,http://ruoshui.space:554/rtp/239.253.43.200:5146
-CGTN俄语,http://ruoshui.space:554/rtp/239.253.43.201:5146
 
 CCTV1,http://xxy.x3322.net:4022/rtp/239.77.0.129:5146
 CCTV1,http://xxy.x3322.net:4022/rtp/239.77.1.17:5146
