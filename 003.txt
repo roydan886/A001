@@ -129,246 +129,60 @@ CHC家庭影院,http://36.129.204.120:880/CCN153.m3u8
 女性时尚,http://36.129.204.120:880/dx105.m3u8
 
 测试,#genre#
-745[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-761[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-785[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-798[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-797[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-796[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-799[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-802[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-804[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-800[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-803[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-801[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-991[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-990[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
-1011[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-1012[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-1009[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-1010[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-1190[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-1193[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-1189[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-1191[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-1192[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-1198[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-1195[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-1199[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-1197[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-1194[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-1203[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-1206[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-1201[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-1202[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-1211[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-1196[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-1216[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-1217[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-1215[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-1209[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-1205[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-1200[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-1224[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-1222[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-1221[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-1240[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-1232[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-1210[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-1204[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-1230[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-1231[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-1223[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-1233[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-1337[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-1338[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
-1351[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-1371[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-1372[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
-1376[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
-1378[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-1377[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
-1384[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
-1383[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
-1385[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-1393[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-1390[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
-1391[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-1397[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-1395[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-1454[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
-1457[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
-1462[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-1463[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-1465[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-1556[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
-1579[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-1581[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-1580[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-1805[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-1808[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-1921[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-1920[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
-1938[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
-1947[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-1950[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-1951[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
-1953[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-1956[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-1954[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
-1959[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-1969[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
-1967[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226967/index.m3u8
-1972[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-1975[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-1957[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226957/index.m3u8
-1966[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
-1981[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-1982[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
-1983[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226983/index.m3u8
-1987[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-1978[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-1984[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-1990[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226990/index.m3u8
-1994[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226994/index.m3u8
-1993[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226993/index.m3u8
-1998[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226998/index.m3u8
-1989[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226989/index.m3u8
-1992[1920x1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226992/index.m3u8
-1945[1920x1188],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
-1582[3840x2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-744[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-746[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225746/index.m3u8
-743[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-750[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-748[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
-747[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
-763[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
-751[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
-753[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-758[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
-754[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
-762[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
-764[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
-756[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-766[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
-767[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
-757[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8
-765[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
-770[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-752[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
-769[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-771[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
-772[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
-760[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
-773[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
-768[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
-775[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
-774[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225774/index.m3u8
-777[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
-781[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
-776[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
-778[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8
-787[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225787/index.m3u8
-784[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
-783[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
-786[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
-789[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
-793[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-790[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225790/index.m3u8
-788[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225788/index.m3u8
-791[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
-795[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-794[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8
-792[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
-821[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
-1000[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
-1212[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-1214[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-1218[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-1213[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-1208[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
-1219[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-1225[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-1227[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-1229[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-1239[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
-1236[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-1234[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
-1228[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
-1226[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-1244[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
-1245[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-1237[1024x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
-1241[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-1242[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-1243[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
-1238[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-1246[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226246/index.m3u8
-1247[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
-1248[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226248/index.m3u8
-1235[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-1220[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-1322[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
-1326[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226326/index.m3u8
-1331[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
-1350[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
-1353[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226353/index.m3u8
-1360[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-1358[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-1357[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-1359[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-1361[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-1363[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-1362[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
-1364[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-1367[791x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-1368[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-1366[791x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-1369[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-1370[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-1374[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226374/index.m3u8
-1375[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226375/index.m3u8
-1380[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
-1379[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
-1388[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226388/index.m3u8
-1458[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226458/index.m3u8
-1547[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-1546[1047x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-1952[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226952/index.m3u8
-1955[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226955/index.m3u8
-1965[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226965/index.m3u8
-1968[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226968/index.m3u8
-1970[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226970/index.m3u8
-1971[785x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226971/index.m3u8
-1974[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226974/index.m3u8
-1976[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226976/index.m3u8
-1973[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226973/index.m3u8
-1977[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226977/index.m3u8
-1979[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8
-1980[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226980/index.m3u8
-1985[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
-1986[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226986/index.m3u8
-1988[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226988/index.m3u8
-1996[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226996/index.m3u8
-1995[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226995/index.m3u8
-1964[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226964/index.m3u8
-1997[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226997/index.m3u8
-2000[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227000/index.m3u8
-1999[768x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226999/index.m3u8
-1962[720x576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226962/index.m3u8
-836[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-834[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-839[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-835[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-837[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-845[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-846[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-850[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-847[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-848[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-849[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-1032[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226032/index.m3u8
-1459[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226459/index.m3u8
-1461[1280x720],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226461/index.m3u8
-1018[1280x960],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226018/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,Unknown_2
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 ,Unknown_25
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 ,Unknown_26
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 ,Unknown_27
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 ,Unknown_28
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+#EXTINF:-1 ,Unknown_29
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+#EXTINF:-1 ,Unknown_30
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+#EXTINF:-1 ,Unknown_31
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1 ,Unknown_32
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+#EXTINF:-1 ,Unknown_33
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+#EXTINF:-1 ,Unknown_34
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+#EXTINF:-1 ,Unknown_37
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+#EXTINF:-1 ,Unknown_38
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+#EXTINF:-1 ,Unknown_49
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 ,Unknown_50
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_62
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 ,Unknown_85
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+#EXTINF:-1 ,Unknown_86
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+#EXTINF:-1 ,Unknown_98
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+#EXTINF:-1 ,Unknown_133
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
+#EXTINF:-1 ,Unknown_135
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
+#EXTINF:-1 ,Unknown_145
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
+#EXTINF:-1 ,Unknown_194
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+#EXTINF:-1 ,Unknown_205
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 ,Unknown_206
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1 ,Unknown_229
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
+#EXTINF:-1 ,Unknown_230
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
