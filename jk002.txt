@@ -1,87 +1,1725 @@
-//=========æ—­æ—¥è±ªå=========
 {
-"spider": "https://agit.ai/cx/jar/raw/branch/master/xh.jar",
-"wallpaper":"https://tool.weetai.cn/api",
-"lives":[
-{"name":"live","url":"https://ghproxy.net/https://raw.githubusercontent.com/roydan886/A001/main/002.txt",
-"type":0,"playerType":1,"ua":"okhttp/3.12.13",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"warningText":"æ¯æ¬¡æ‰“å¼€é•¿æŒ‰ä¸»é¡µåˆ·æ–°",
-"sites":[
-#é‡‡é›†
-{"key":"è±ªåèµ„æº","name":"æ—­æ—¥ğŸ”…è±ªå","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["åŠ¨ç”»ç‰‡","ä¸­å›½åŠ¨æ¼«","æ—¥æœ¬åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","åŠ¨ä½œç‰‡","ç§‘å¹»ç‰‡","è®°å½•ç‰‡","çˆ±æƒ…ç‰‡","å–œå‰§ç‰‡","ç¾éš¾ç‰‡","æ‚¬ç–‘ç‰‡","çŠ¯ç½ªç‰‡","å†…åœ°å‰§","é¦™æ¸¯å‰§","æ¬§ç¾å‰§","éŸ©å‰§","æ—¥å‰§","é©¬æ³°å‰§","å°æ¹¾å‰§","å¤§é™†ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"csp_xml_ckzy","name":"CK ğŸºèµ„æº","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","æ‚¬ç–‘ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","è®°å½•ç‰‡","åŠ¨ç”»ç”µå½±","å›½äº§å‰§","æ¬§ç¾å‰§","çŠ¯ç½ªç‰‡","é¦™æ¸¯å‰§","éŸ©å›½å‰§","æ³°å‰§","æ¸¯å°å‰§","æ—¥éŸ©å‰§","æµ·å¤–å‰§","å…¶ä»–å‰§","æ‚¬ç–‘ç‰‡","å¥‡å¹»ç‰‡","åŠ¨ç”»ç‰‡","ä½“è‚²èµ›äº‹","ä¸­å›½åŠ¨æ¼«","æ—¥æœ¬åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"csp_xml_ikun","name":"ikunğŸ†–èµ„æº","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"playUrl":"https://www.ikdmjx.com/?url=","quickSearch":1,"filterable":1,"playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","è®°å½•ç‰‡","å›½äº§å‰§","æ¬§ç¾å‰§","çŠ¯ç½ªç‰‡","æƒŠæ‚šç‰‡","å¤è£…ç‰‡","ç¾éš¾ç‰‡","å†å²ç‰‡","é¦™æ¸¯å‰§","éŸ©å›½å‰§","å°æ¹¾å‰§","æ—¥æœ¬å‰§","æµ·å¤–å‰§","æ³°å›½å‰§","å…¶ä»–ç‰‡","æ‚¬ç–‘ç‰‡","å¥‡å¹»ç‰‡","åŠ¨ç”»ç‰‡","å›½äº§åŠ¨æ¼«","æ—¥éŸ©åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"zycj_å¤©å¤©","name":"é«˜æ¸…ğŸ”…èµ„æº","type":1,"searchable":1,"changeable":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","categories":["å›½äº§å‰§","å›½äº§åŠ¨æ¼«","éŸ©å›½å‰§","æ¬§ç¾å‰§","å¤§é™†ç»¼è‰º"]},
-{"key":"æ–°æµªèµ„æº","name":"æ–°æµªğŸ„ğŸ»èµ„æº","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","çºªå½•ç‰‡","åŠ¨æ¼«ç”µå½±","å¤§é™†å‰§","æ¬§ç¾å‰§","æ¸¯æ¾³å‰§","éŸ©å‰§","å°æ¹¾å‰§","æ—¥å‰§","æµ·å¤–å‰§","æ³°å‰§","ä½“è‚²","å›½äº§åŠ¨æ¼«","æ—¥éŸ©åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"49zy","name":"ç‹®é¹«ğŸ¦èµ„æº","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["å›½äº§å‰§","çºªå½•ç‰‡","æ¬§ç¾å‰§","é¦™æ¸¯å‰§","åŠ¨ä½œç‰‡","çˆ±æƒ…ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","å–œå‰§ç‰‡","åŠ¨ç”»ç‰‡","çŠ¯ç½ªç‰‡","éŸ©å›½å‰§","åŠ¨æ¼«","ç”µå½±","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º","å°æ¹¾å‰§","å›½äº§åŠ¨æ¼«","æ—¥æœ¬åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ³°å›½å‰§","æ—¥å‰§","ç”µå½±è§£è¯´","å¥‡å¹»ç‰‡","ç¾éš¾ç‰‡","æ‚¬ç–‘ç‰‡","å…¶ä»–ç‰‡","ä½“è‚²èµ›äº‹","æµ·å¤–å‰§"]},
-{"key":"å¿«è½¦èµ„æº","name":"å¿«è½¦ğŸš˜äº‘æ’­","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["å›½äº§å‰§","æˆ˜äº‰ç‰‡","åŠ¨ä½œç‰‡","é¦™æ¸¯å‰§"]},
-{"key":"å…‰é€Ÿèµ„æº","name":"å…‰é€Ÿâ˜€äº‘æ’­","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["å¤§é™†å‰§","æ¸¯æ¾³å‰§","ç»¼è‰º","åŠ¨æ¼«"]},
-{"key":"å¤©ç©ºèµ„æº","name":"å¤©ç©ºğŸ‘’äº‘æ’­","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["å›½äº§å‰§","å‰§æƒ…ç‰‡","å¤§é™†ç»¼è‰º","åŠ¨ä½œç‰‡"]},
-{"key":"äº«çœ‹é‡‡é›†","name":"äº«çœ‹â™¥ï¸é‡‡é›†","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
-{"key":"csp_éå‡¡èµ„æº","name":"éå‡¡â˜…èµ„æº","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","è®°å½•ç‰‡","å›½äº§å‰§","æ¬§ç¾å‰§","é¦™æ¸¯å‰§","éŸ©å›½å‰§","å°æ¹¾å‰§","æ—¥æœ¬å‰§","æµ·å¤–å‰§","æ³°å›½å‰§","å›½äº§åŠ¨æ¼«","æ—¥éŸ©åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"meowtv_lzzy","name":"é‡å­â˜¯ï¸èµ„æº","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playurl":"json:http://infinity7788.com:81/FTP/lzqgg.php?url=","categories":["å›½äº§å‰§","å›½äº§åŠ¨æ¼«","æ³°å›½å‰§","å°æ¹¾å‰§","é¦™æ¸¯å‰§","æ¬§ç¾å‰§","éŸ©å›½å‰§","æ—¥æœ¬å‰§","åŠ¨æ¼«","ä½“è‚²","å‰§æƒ…ç‰‡","åŠ¨ä½œç‰‡","çˆ±æƒ…ç‰‡","å–œå‰§ç‰‡"]},
-{"key":"csp_xml_å¤©ç©º","name":"å¤©ç©ºğŸŒé‡‡é›†","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","çºªå½•ç‰‡","å›½äº§å‰§","æ¬§ç¾å‰§","çŠ¯ç½ªç‰‡","é¦™æ¸¯å‰§","éŸ©å›½å‰§","å°æ¹¾å‰§","æ—¥å‰§","æµ·å¤–å‰§","å…¶ä»–ç‰‡","æ‚¬ç–‘ç‰‡","å¥‡å¹»ç‰‡","åŠ¨ç”»ç‰‡","å›½äº§åŠ¨æ¼«","æ—¥æœ¬åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"csp_xml_çº¢ç‰›","name":"çº¢ç‰›ğŸ®èµ„æº","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","çºªå½•ç‰‡","åŠ¨æ¼«ç”µå½±","å›½äº§å‰§","æ¬§ç¾å‰§","çŠ¯ç½ªç‰‡","æ¸¯æ¾³å‰§","éŸ©å‰§","æ³°å‰§","å°æ¹¾å‰§","æ—¥å‰§","æµ·å¤–å‰§","å…¶ä»–ç‰‡","æ‚¬ç–‘ç‰‡","å¥‡å¹»ç‰‡","åŠ¨ç”»ç‰‡","ä½“è‚²èµ›äº‹","å›½äº§åŠ¨æ¼«","æ—¥æœ¬åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"csp_xml_é£é€Ÿ","name":"é£é€ŸğŸšé‡‡é›†","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","çºªå½•ç‰‡","åŠ¨ç”»ç‰‡","å…¶ä»–ç‰‡","å›½äº§å‰§","æ¬§ç¾å‰§","é¦™æ¸¯å‰§","éŸ©å›½å‰§","å°æ¹¾å‰§","æ—¥æœ¬å‰§","æµ·å¤–å‰§","æ³°å›½å‰§","å…¶ä»–å‰§","ä½“è‚²èµ›äº‹","å›½äº§åŠ¨æ¼«","æ—¥éŸ©åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"å§é¾™èµ„æº","name":"å§é¾™ğŸ‰èµ„æº","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["åŠ¨ä½œç‰‡","å–œå‰§ç‰‡","ç§‘å¹»ç‰‡","ææ€–ç‰‡","çˆ±æƒ…ç‰‡","å‰§æƒ…ç‰‡","æˆ˜äº‰ç‰‡","è®°å½•ç‰‡","åŠ¨ç”»ç”µå½±","å›½äº§å‰§","æ¬§ç¾å‰§","çŠ¯ç½ªç‰‡","é¦™æ¸¯å‰§","éŸ©å›½å‰§","æ³°å‰§","å°æ¹¾å‰§","æ—¥å‰§","æµ·å¤–å‰§","å…¶ä»–ç‰‡","æ‚¬ç–‘ç‰‡","å¥‡å¹»ç‰‡","åŠ¨ç”»ç‰‡","ä½“è‚²èµ›äº‹","å›½äº§åŠ¨æ¼«","æ—¥éŸ©åŠ¨æ¼«","æ¬§ç¾åŠ¨æ¼«","æ¸¯å°åŠ¨æ¼«","æµ·å¤–åŠ¨æ¼«","å¤§é™†ç»¼è‰º","æ¸¯å°ç»¼è‰º","æ—¥éŸ©ç»¼è‰º","æ¬§ç¾ç»¼è‰º"]},
-{"key":"ä¼˜é…·èµ„æº","name":"ä¼˜é…·ğŸ’’èµ„æº","type":1,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "","searchable": 1,"quickSearch": 1, "filterable": 1,"categories": ["å›½äº§å‰§","åŠ¨ä½œç‰‡","å–œå‰§ç‰‡"]},
-
-#çˆ¬è™«
-{"key":"èšåˆ","name":"èšåˆğŸˆ´ï¸è§£æ","type":3,"api":"csp_AppYsV2","playerType":2,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"XALè“å…‰","name":"XALğŸ¦Šè“å…‰","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1},
-{"key":"å¤©å¤©","name":"å¤©å¤©ğŸ“…è§‚å½±","type":3,"jar":"http://yydf.540734621.xyz/yydf/yydf/bd/jar/fix1209.jar;md5;55c166b3567b9a5b7746a048c5472263","api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"èŠ±æµ·","name":"èŠ±æµ·ğŸŒ¼è§‚å½±","api":"csp_AppYs","type":3,"playerType":"2","ext":"http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
-{"key":"360","name":"360ğŸ’«å½±è§†","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_77App","name":"é…·äº‘ğŸ‘’ä¸ƒä¸ƒ","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ikanbot","name":"IkanğŸ”±ç›´è¿","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "ç†ŠæŒ","name": "ç†ŠæŒğŸ‘‰èµ„æº","type": 1,"api": "https://xzcjz.com/api.php/provide/vod"},
-{"key":"äººäººå½±è§†","name":"äººäººğŸ‘©â€ğŸ‘¦å½±è§†","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_MeiJu69","name":"å…­ä¹ğŸ—½ç¾å‰§","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"csp_beijihu","name":"æç‹ğŸªå½±è§†","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-{"key":"æœºå™¨äºº","name":"ğŸ„æœºå™¨äººğŸ„","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"é…·å½±è§†","name":"ğŸ˜é…·å½±è§†ğŸ˜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"åŠ é€Ÿå™¨","name":"ğŸ¡åŠ é€Ÿå™¨ğŸ¡","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
-
- #åˆ‡ç‰‡
-{"key":"é‡‘é¹°èµ„æº","name":"é‡‘é¹°ğŸ¦…èµ„æº","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
-{"key":"å§é¾™èµ„æº","name":"å§é¾™ğŸŒªï¸èµ„æº","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"çº¢ç‰›èµ„æº","name":"çº¢ç‰›ğŸ‚èµ„æº","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"æ–°æµªèµ„æº","name":"æ–°æµªğŸ„ğŸ»èµ„æº","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"å¤©ç©ºèµ„æº","name":"å¤©ç©ºâ˜ï¸èµ„æº","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"é‡å­èµ„æº","name":"é‡å­ğŸ¡èµ„æº","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"å¿«è½¦èµ„æº","name":"å¿«è½¦ğŸš´èµ„æº","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Ué…·èµ„æº","name":"Ué…· ğŸ“­èµ„æº","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"789ç›˜","name":"789ğŸ¦‹èµ„æº","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"é£é€Ÿèµ„æº","name":"é£é€ŸğŸ’«èµ„æº","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"ä¹è§†","name":"ä¹è§†ğŸ•Šï¸èµ„æº","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/"},
-{"key":"éå‡¡","name":"éå‡¡ğŸ¡èµ„æº","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/"},
-{"key":"è±ªå","name":"è±ªåğŸ¦„èµ„æº","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/"}
-
- ],
-"parses":[
-{"name":"JSON","type":3,"url":"Demo"},
-{"name":"è¶…å—…æ¢","type":3,"url":"Web"},
-{"name":"è§£æ1","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"åˆæ‹1","type":0,"url":"https://cdn.jxxkja.com/?url="},
-{"name":"åˆæ‹2","type":0,"url":"https://ys.zf520.cn/addons/dp/player/dp.php?key=0&from=&id=&api=&url="},
-{"name":"åˆæ‹3","type":0,"url":"https://ys.zf520.cn/addons/dp/player/dp.php?key=2&from=qq&id=0&api=&url="},
-{"name":"å—…æ¢1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"å—…æ¢2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"å—…æ¢3","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"å—…æ¢4","type":0,"url":"https://jx.xmflv.com/?url="}],
-"flags": ["youku","ä¼˜é…·","ä¼˜ é…·","ä¼˜é…·è§†é¢‘","qq","è…¾è®¯","è…¾ è®¯","è…¾è®¯è§†é¢‘","iqiyi","qiyi","å¥‡è‰º","çˆ±å¥‡è‰º","çˆ± å¥‡ è‰º","m1905","xigua","letv","leshi","ä¹è§†","ä¹ è§†","sohu","æœç‹","æœ ç‹","æœç‹è§†é¢‘","tudou","pptv","mgtv","èŠ’æœ","imgo","èŠ’æœTV","èŠ’ æœ T V","bilibili","å“” å“©","å“” å“© å“” å“©"],
-"rules":[
-{"name":"é‡å­","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"éå‡¡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"ç´¢å°¼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"æš´é£","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"ç£åŠ›","hosts":["magnet"],"regex":["æ›´å¤š","ç¤¾å€","xuu","æœ€æ–°","æ›´æ–°","ç¤¾åŒº","æœ‰è¶£","æœ‰è¶£","è‹±çš‡ä½“è‚²","å…¨ä¸­æ–‡AVåœ¨çº¿","æ¾³é—¨çš‡å† èµŒåœº","å“¥å“¥å¿«æ¥","ç¾å¥³è·å®˜","è£¸èŠ","æ–°ç‰‡é¦–å‘","UUE29"]}],
-"doh":[
-{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
-{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+  "sites": [
+    {
+      "key": "meowtv_dbtj",
+      "name": "¶¹°ê©§ÍÆ¼ö",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "meowtv_ngys",
+      "name": "ÄÏ¹Ï©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "meowtv_Mmys",
+      "name": "ÃÈÃ×©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
+    {
+      "key": "meowtv_jlys",
+      "name": "¾ÅÁù©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+    },
+    {
+      "key": "meowtv_Atys",
+      "name": "°ÂÌØ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_jhys",
+      "name": "One ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_Libo",
+      "name": "Àû²¥©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
+    {
+      "key": "meowtv_czys",
+      "name": "³§³¤©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy88.com/"
+    },
+    {
+      "key": "meowtv_ddys",
+      "name": "µÍ¶Ë©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "meowtv_77yy",
+      "name": "ÆßÆß©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+    },
+    {
+      "key": "meowtv_yqks",
+      "name": "Ò»Æğ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_Btoo",
+      "name": "±ÈÌØ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_nmys",
+      "name": "Å©Ãñ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Å©ÃñÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_wfys",
+      "name": "Íø·É©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Íø·ÉÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_dyxs",
+      "name": "ÏÈÉú©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/µçÓ°ÏÈÉú.js"
+    },
+    {
+      "key": "meowtv_mays",
+      "name": "Ã×°®©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Ã×°®Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_qxys",
+      "name": "ÇïÏ¼©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÇïÏ¼Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_sjys",
+      "name": "ÊÓ¾õ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÊÓ¾õÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_xcys",
+      "name": "ĞÇ³½©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ĞÇ³½Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_qnys",
+      "name": "ÆßÄê©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÆßÄêÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_thys",
+      "name": "ÍÁºÀ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÍÁºÀÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_Qxys",
+      "name": "ÆßĞÂ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÆßĞÂÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_ynys",
+      "name": "Ñ¼ÄÎ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Ñ¼ÄÎÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_bkys",
+      "name": "²»¿¨©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/²»¿¨Ó°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_ssys",
+      "name": "ÈıË¼©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÈıË¼Ó°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_wdys",
+      "name": "Íò´ï©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Íò´ïÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_Nfys",
+      "name": "ÄÎ·É©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÄÎ·ÉÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_Free",
+      "name": "Ãâ·Ñ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Ãâ·ÑÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_qyyy",
+      "name": "ÆæÓÅ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÆæÓÅÓ°Ôº.json"
+    },
+    {
+      "key": "meowtv_bdys",
+      "name": "ßÙàÖ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ßÙàÖÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_348D",
+      "name": "À¶¹â©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/À¶¹âÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_03ys",
+      "name": "ÁãÈı©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÁãÈıÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_hxys",
+      "name": "ºÃÏ·©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ºÃÏ·Ó°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_phys",
+      "name": "ÅÖ»¢©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÅÖ»¢Ó°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_dgys",
+      "name": "´ï¹ê©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/´ï¹êÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_akyy",
+      "name": "°®¿´©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/°®¿´Ó°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_scys",
+      "name": "Ê¥³Ç©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Ê¥³ÇÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_tvbb",
+      "name": "TVB ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/TVBÔÆ²¥.json"
+    },
+    {
+      "key": "meowtv_syys",
+      "name": "ËÙÓ³©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ËÙÓ³Ó°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_Shys",
+      "name": "Ë«»Æ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Ë«»ÆÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_myys",
+      "name": "ÂéÒÂ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÂéÒÂÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_Kkys",
+      "name": "¿â¿â©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/¿â¿âÓ°ÊÓ.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_wwys",
+      "name": "ÎåÎå©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÎåÎåÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_Hhys",
+      "name": "ºÚºü©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ºÚºüÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_kcys",
+      "name": "¿á²è©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/¿á²èÓ°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_ggys",
+      "name": "¹â¹÷©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/¹â¹÷Ó°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_akys",
+      "name": "°®¿´©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[ÅÅĞò:lzÏßÂ·,kuaik]",
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+    {
+      "key": "meowtv_yyys",
+      "name": "Ñ¼Ñ¼©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key": "meowtv_xxys",
+      "name": "ĞÂĞÂ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
+      "key": "meowtv_Zzys",
+      "name": "ÔŞÔŞ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://111.230.51.151:9696//api.php/app/"
+    },
+    {
+      "key": "meowtv_xhys",
+      "name": "Ğ¡ºú©§Ó°ÊÓ",
+      "type": 1,
+      "api": "http://c.Ğ¡ºú.icu/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_yszj",
+      "name": "Ö®¼Ò©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_69mj",
+      "name": "Áù¾Å©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/xgapp.php/v2/",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_zxzj",
+      "name": "ÔÚÏß©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/",
+      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+    },
+    {
+      "key": "meowtv_jpyy",
+      "name": "¼öÆ¬©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/js/¼öÆ¬Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_shys",
+      "name": "É§»ğ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/É§»ğÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_dmys",
+      "name": "´óÃ×©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/´óÃ×Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_kkys",
+      "name": "¿´¿´©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/¿´¿´Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_qfys",
+      "name": "Æğ·É©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Æğ·ÉÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_zzys",
+      "name": "×Ó×Ó©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/×Ó×ÓÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_jyys",
+      "name": "¾ÅÓÆ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/¾ÅÓÆÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_vfys",
+      "name": "VOF ©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/VOFÓ°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_nyys",
+      "name": "Å¦Ô¼©§Ó°ÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Å¦Ô¼Ó°ÊÓ.js"
+    },
+    {
+      "key": "meowtv_996y",
+      "name": "¾ÆÁù©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "·ÖÀàurl": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "·ÖÀà": "µçÓ°$1#µçÊÓ¾ç$2#¶¯Âş$3#Ë¬ÎÄ¶Ì¾ç$4#¶¯×÷Æ¬$6#Ï²¾çÆ¬$7#°®ÇéÆ¬$8#¿Æ»ÃÆ¬$9#¿Ö²ÀÆ¬$10#¾çÇéÆ¬$11#Õ½ÕùÆ¬$12#¶¯»­Æ¬$13#¼ÍÂ¼Æ¬$14",
+        "É¸Ñ¡": "1"
+      }
+    },
+    {
+      "key": "meowtv_vsys",
+      "name": "ÍşÊ¿©§Ó°ÊÓ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/ÍşÊ¿Ó°ÊÓ.json"
+    },
+    {
+      "key": "meowtv_49ys",
+      "name": "ËÄ¾Å©§×ÊÔ´",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "¹ú²ú¾ç",
+        "¼ÍÂ¼Æ¬",
+        "Å·ÃÀ¾ç",
+        "Ïã¸Û¾ç",
+        "¶¯×÷Æ¬",
+        "°®ÇéÆ¬",
+        "¿Æ»ÃÆ¬",
+        "¿Ö²ÀÆ¬",
+        "¾çÇéÆ¬",
+        "Õ½ÕùÆ¬",
+        "Ï²¾çÆ¬",
+        "¶¯»­Æ¬",
+        "·¸×ïÆ¬",
+        "º«¹ú¾ç",
+        "¶¯Âş",
+        "µçÓ°",
+        "´óÂ½×ÛÒÕ",
+        "¸ÛÌ¨×ÛÒÕ",
+        "ÈÕº«×ÛÒÕ",
+        "Å·ÃÀ×ÛÒÕ",
+        "Ì¨Íå¾ç",
+        "¹ú²ú¶¯Âş",
+        "ÈÕ±¾¶¯Âş",
+        "Å·ÃÀ¶¯Âş",
+        "Ì©¹ú¾ç",
+        "ÈÕ¾ç",
+        "µçÓ°½âËµ",
+        "Ææ»ÃÆ¬",
+        "ÔÖÄÑÆ¬",
+        "ĞüÒÉÆ¬",
+        "ÆäËûÆ¬",
+        "ÌåÓıÈüÊÂ",
+        "º£Íâ¾ç"
+      ]
+    },
+    {
+      "key": "meowtv_lzzy",
+      "name": "Á¿×Ó©§×ÊÔ´",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "¹ú²ú¾ç",
+        "¹ú²ú¶¯Âş",
+        "Ì©¹ú¾ç",
+        "Ì¨Íå¾ç",
+        "Ïã¸Û¾ç",
+        "Å·ÃÀ¾ç",
+        "º«¹ú¾ç",
+        "ÈÕ±¾¾ç",
+        "¶¯Âş",
+        "ÌåÓı",
+        "¾çÇéÆ¬",
+        "¶¯×÷Æ¬",
+        "°®ÇéÆ¬",
+        "Ï²¾çÆ¬"
+      ]
+    },
+    {
+      "key": "meowtv_ffzy",
+      "name": "·Ç·²©§×ÊÔ´",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "¶¯×÷Æ¬",
+        "Ï²¾çÆ¬",
+        "¿Æ»ÃÆ¬",
+        "¿Ö²ÀÆ¬",
+        "°®ÇéÆ¬",
+        "¾çÇéÆ¬",
+        "Õ½ÕùÆ¬",
+        "¼ÇÂ¼Æ¬",
+        "¹ú²ú¾ç",
+        "Å·ÃÀ¾ç",
+        "Ïã¸Û¾ç",
+        "º«¹ú¾ç",
+        "Ì¨Íå¾ç",
+        "ÈÕ±¾¾ç",
+        "º£Íâ¾ç",
+        "Ì©¹ú¾ç",
+        "¹ú²ú¶¯Âş",
+        "ÈÕº«¶¯Âş",
+        "Å·ÃÀ¶¯Âş",
+        "¸ÛÌ¨¶¯Âş",
+        "º£Íâ¶¯Âş",
+        "´óÂ½×ÛÒÕ",
+        "¸ÛÌ¨×ÛÒÕ",
+        "ÈÕº«×ÛÒÕ",
+        "Å·ÃÀ×ÛÒÕ"
+      ]
+    },
+    {
+      "key": "meowtv_snzy",
+      "name": "Ë÷Äá©§×ÊÔ´",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "¶¯×÷Æ¬",
+        "Ï²¾çÆ¬",
+        "¿Æ»ÃÆ¬",
+        "¿Ö²ÀÆ¬",
+        "°®ÇéÆ¬",
+        "¾çÇéÆ¬",
+        "Õ½ÕùÆ¬",
+        "¼ÇÂ¼Æ¬",
+        "¹ú²ú¾ç",
+        "Å·ÃÀ¾ç",
+        "Ïã¸Û¾ç",
+        "º«¹ú¾ç",
+        "Ì¨Íå¾ç",
+        "ÈÕ±¾¾ç",
+        "º£Íâ¾ç",
+        "Ì©¹ú¾ç",
+        "¹ú²ú¶¯Âş",
+        "ÈÕº«¶¯Âş",
+        "Å·ÃÀ¶¯Âş",
+        "¸ÛÌ¨¶¯Âş",
+        "º£Íâ¶¯Âş",
+        "´óÂ½×ÛÒÕ",
+        "¸ÛÌ¨×ÛÒÕ",
+        "ÈÕº«×ÛÒÕ",
+        "Å·ÃÀ×ÛÒÕ"
+      ]
+    },
+    {
+      "key": "meowtv_bfzy",
+      "name": "±©·ç©§×ÊÔ´",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "¹ú²ú¾ç",
+        "¹ú²ú¶¯Âş",
+        "´óÂ½×ÛÒÕ",
+        "¸ÛÌ¨×ÛÒÕ",
+        "Ïã¸Û¾ç",
+        "Ì¨Íå¾ç",
+        "ÈÕ±¾¾ç",
+        "Å·ÃÀ¾ç",
+        "Ì©¹ú¾ç",
+        "ÈÕ±¾¶¯Âş",
+        "ÈÕ±¾×ÛÒÕ",
+        "×ÛÒÕÆµµÀ",
+        "ĞÂÂíÌ©×ÛÒÕ",
+        "¼ÍÂ¼Æ¬",
+        "¿Æ»ÃÆ¬",
+        "Ï²¾çÆ¬",
+        "Õ½ÕùÆ¬"
+      ],
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_kkzy",
+      "name": "¿ì¿´©§×ÊÔ´",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "¹ú²ú¾ç",
+        "¸ÛÌ¨¾ç",
+        "¹ú²ú¶¯Âş",
+        "ÈÕº«¾ç",
+        "Å·ÃÀ¾ç",
+        "º£Íâ¾ç",
+        "¶¯×÷Æ¬",
+        "°®ÇéÆ¬",
+        "¾çÇéÆ¬",
+        "¿Æ»ÃÆ¬",
+        "Ææ»ÃÆ¬",
+        "Õ½ÕùÆ¬",
+        "·¸×ïÆ¬",
+        "¿Ö²ÀÆ¬",
+        "ĞüÒÉÆ¬",
+        "¾ªã¤Æ¬",
+        "Ã°ÏÕÆ¬"
+      ]
+    },
+    {
+      "key": "meowtv_33ys",
+      "name": "ÈıÁù©§ÊÓÆµ",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_qysp",
+      "name": "ÆæÒÕ©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÆæÒÕÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_txsp",
+      "name": "ÌÚÑ¶©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÌÚÑ¶ÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_yksp",
+      "name": "ÓÅ¿á©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÓÅ¿áÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_mgsp",
+      "name": "Ã¢¹û©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Ã¢¹ûÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_sgys",
+      "name": "ËÑ¹·©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ËÑ¹·ÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_fqdj",
+      "name": "·¬ÇÑ©§¶Ì¾ç",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/·¬ÇÑ¶Ì¾ç.js"
+    },
+    {
+      "key": "meowtv_bydj",
+      "name": "°ñÒ»©§¶Ì¾ç",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/°ñÒ»¶Ì¾ç.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_hmdj",
+      "name": "ºÓÂí©§¶Ì¾ç",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+    {
+      "key": "meowtv_rxdj",
+      "name": "ÈñĞÇ©§¶Ì¾ç",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    },
+    {
+      "key": "meowtv_ygcl",
+      "name": "Ó°¸Û©§´ÅÁ¦",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/Ó°¸Û´ÅÁ¦.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_6Vcl",
+      "name": "ĞÂ6v©§´ÅÁ¦",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "meowtv_mp4c",
+      "name": "MP4 ©§´ÅÁ¦",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_kbcl",
+      "name": "¿á°É©§´ÅÁ¦",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_xlbc",
+      "name": "Ñ¸À×©§´ÅÁ¦",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_Dm84",
+      "name": "°ÍÊ¿©§¶¯Âş",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_Ying",
+      "name": "Ó£»¨©§¶¯Âş",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_Anim",
+      "name": "ÈÕÂş©§¶¯Âş",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_yjdm",
+      "name": "Òì½ç©§¶¯Âş",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "meowtv_ntdm",
+      "name": "ÄûÍ©©§¶¯Âş",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÄûÍ©¶¯Âş.js"
+    },
+    {
+      "key": "meowtv_mddm",
+      "name": "Âşµº©§¶¯Âş",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Âşµº¶¯Âş.js"
+    },
+    {
+      "key": "meowtv_lmdm",
+      "name": "Â·Âş©§¶¯Âş",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Â·Âş¶¯Âş.js"
+    },
+    {
+      "key": "meowtv_qmdm",
+      "name": "ÆæÃ×©§¶¯Âş",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÆæÃ×¶¯Âş.js"
+    },
+    {
+      "key": "meowtv_kbdm",
+      "name": "¿´°É©§¶¯Âş",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/¿´°É¶¯Âş.js"
+    },
+    {
+      "key": "meowtv_88kq",
+      "name": "°Ë°Ë©§ÌåÓı",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/°Ë°ËÌåÓı.js"
+    },
+    {
+      "key": "meowtv_qmty",
+      "name": "JRK ©§ÌåÓı",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/JRKÌåÓı.js"
+    },
+    {
+      "key": "meowtv_310q",
+      "name": "ÈıÒ»©§ÌåÓı",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/ÈıÒ»ÌåÓı.js"
+    },
+    {
+      "key": "meowtv_gdty",
+      "name": "¸ñ¶·©§ÌåÓı",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/js/¸ñ¶·ÌåÓı.js"
+    },
+    {
+      "key": "meowtv_qety",
+      "name": "Æó¶ì©§ÌåÓı",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/Æó¶ìÌåÓı.json"
+    },
+    {
+      "key": "meowtv_mxmv",
+      "name": "Ã÷ĞÇ©§ MV ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://cdn.teyonds.com/xp/Ã÷ĞÇMV.json"
+    },
+    {
+      "key": "meowtv_kqmv",
+      "name": "¿áÆæ©§ MV ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/¿áÆæÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_hyzb",
+      "name": "»¢ÑÀ©§Ö±²¥",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/»¢ÑÀÖ±²¥.js"
+    },
+    {
+      "key": "meowtv_dyzb",
+      "name": "¶·Óã©§Ö±²¥",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/¶·ÓãÖ±²¥.js"
+    },
+    {
+      "key": "meowtv_blzb",
+      "name": "ßÙÁ¨©§Ö±²¥",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/js/ßÙÁ¨Ö±²¥.js"
+    },
+    {
+      "key": "meowtv_jhzb",
+      "name": "¾ÛºÏ©§Ö±²¥",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "meowtv_jdsp",
+      "name": "¾Û¶Ì©§ÊÓÆµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/¾Û¶ÌÊÓÆµ.js"
+    },
+    {
+      "key": "meowtv_ysxs",
+      "name": "ÓĞÉù©§Ğ¡Ëµ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/ÓĞÉùĞ¡Ëµ.js"
+    },
+    {
+      "key": "meowtv_blhj",
+      "name": "ßÙÁ¨©§ºÏ¼¯",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/ßÙÁ¨ºÏ¼¯.json"
+    },
+    {
+      "key": "meowtv_blgq",
+      "name": "ßÙÁ¨©§¸èÇú",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/ßÙÁ¨¸èÇú.json"
+    },
+    {
+      "key": "meowtv_jjjx",
+      "name": "¼±¾È©§½ÌÑ§",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "meowtv_txdh",
+      "name": "ÌÚÑ¶©§¶¯»­",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÌÚÑ¶¶¯»­.js"
+    },
+    {
+      "key": "meowtv_qydh",
+      "name": "ÆæÒÕ©§¶¯»­",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/ÆæÒÕ¶¯»­.js"
+    },
+    {
+      "key": "meowtv_mgdh",
+      "name": "Ã¢¹û©§¶¯»­",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Ã¢¹û¶¯»­.js"
+    },
+    {
+      "key": "meowtv_tqss",
+      "name": "Í¯È¤©§ËÑÊÓ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/Í¯È¤ËÑÊÓ.js"
+    },
+    {
+      "key": "meowtv_etqm",
+      "name": "¶ùÍ¯©§ÆôÃÉ",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/¶ùÍ¯ÆôÃÉ.js"
+    },
+    {
+      "key": "meowtv_dtgx",
+      "name": "µÆËş©§¹úÑ§",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/xp/µÆËş¹úÑ§.json"
+    },
+    {
+      "key": "meowtv_sejy",
+      "name": "ÉÙ¶ù©§½ÌÓı",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/ÉÙ¶ù½ÌÓı.json"
+    },
+    {
+      "key": "meowtv_xxkt",
+      "name": "Ğ¡Ñ§©§¿ÎÌÃ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/Ğ¡Ñ§¿ÎÌÃ.json"
+    },
+    {
+      "key": "meowtv_czkt",
+      "name": "³õÖĞ©§¿ÎÌÃ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/³õÖĞ¿ÎÌÃ.json"
+    },
+    {
+      "key": "meowtv_gzkt",
+      "name": "¸ßÖĞ©§¿ÎÌÃ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/¸ßÖĞ¿ÎÌÃ.json"
+    },
+    {
+      "key": "meowtv_bdsp",
+      "name": "±¾µØ©§ÊÓÆµ",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 0,
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+    {
+      "key": "meowtv_qyss",
+      "name": "ÆßÒ¹©§ËÑË÷",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "meowtv_Psss",
+      "name": "ÅÌSe©§ËÑË÷",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "meowtv_psss",
+      "name": "ÅÌËÑ©§ËÑË÷",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "meowtv_ysss",
+      "name": "ÔÆËÑ©§ËÑË÷",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "push_agent",
+      "name": "ÍÆËÍ©§Á´½Ó",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+    }
+  ],
+  "parses": [
+    {
+      "name": "¾ÛºÏ",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "MeowTV",
+      "type": 1,
+      "url": "http://jx.meowtv.cn/?url="
+    }
+  ],
+  "lives": [
+    {
+      "name": "Ö±²¥",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/roydan886/A001/main/002.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "spider": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD",
+  "wallpaper": "http://tool.teyonds.com/api",
+  "ijk": [
+    {
+      "group": "Èí½âÂë",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "Ó²½âÂë",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
 }
