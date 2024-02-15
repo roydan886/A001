@@ -1,6 +1,3 @@
-{
-"spider": "https://agit.ai/cx/jar/raw/branch/master/xh.jar",
-"wallpaper":"https://tool.weetai.cn/api"},
 
 
 {
