@@ -129,60 +129,31 @@ CHC家庭影院,http://36.129.204.120:880/CCN153.m3u8
 女性时尚,http://36.129.204.120:880/dx105.m3u8
 
 测试,#genre#
-#EXTM3U
-#EXTINF:-1 ,Unknown_2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 ,Unknown_25
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 ,Unknown_26
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-#EXTINF:-1 ,Unknown_27
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 ,Unknown_28
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-#EXTINF:-1 ,Unknown_29
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-#EXTINF:-1 ,Unknown_30
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-#EXTINF:-1 ,Unknown_31
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-#EXTINF:-1 ,Unknown_32
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-#EXTINF:-1 ,Unknown_33
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-#EXTINF:-1 ,Unknown_34
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-#EXTINF:-1 ,Unknown_37
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-#EXTINF:-1 ,Unknown_38
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-#EXTINF:-1 ,Unknown_49
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 ,Unknown_50
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-#EXTINF:-1 ,Unknown_51
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 ,Unknown_62
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-#EXTINF:-1 ,Unknown_85
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-#EXTINF:-1 ,Unknown_86
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1 ,Unknown_98
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-#EXTINF:-1 ,Unknown_133
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
-#EXTINF:-1 ,Unknown_135
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
-#EXTINF:-1 ,Unknown_145
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
-#EXTINF:-1 ,Unknown_194
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-#EXTINF:-1 ,Unknown_205
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-#EXTINF:-1 ,Unknown_206
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 ,Unknown_229
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-#EXTINF:-1 ,Unknown_230
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
+Unknown_2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+Unknown_25,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+Unknown_26,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+Unknown_27,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+Unknown_28,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+Unknown_29,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+Unknown_30,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+Unknown_31,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+Unknown_32,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+Unknown_33,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+Unknown_34,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+Unknown_37,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+Unknown_38,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+Unknown_49,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+Unknown_50,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+Unknown_51,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+Unknown_62,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+Unknown_85,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+Unknown_86,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+Unknown_98,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+Unknown_133,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
+Unknown_135,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
+Unknown_145,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
+Unknown_194,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+Unknown_205,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+Unknown_206,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+Unknown_229,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
+Unknown_230,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
