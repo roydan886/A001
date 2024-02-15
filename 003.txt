@@ -1,5 +1,12 @@
 央视,#genre#
-测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+测试,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+测试.http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+测试,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+测试,http://1.85.0.62:808/hls/503/index.m3u8
+测试,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
+测试,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+测试,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-1,http://36.129.204.120:880/CCD303.m3u8
 CCTV-2,http://36.129.204.120:880/DX2.m3u8
 CCTV-3,http://36.129.204.120:880/DX101.m3u8
