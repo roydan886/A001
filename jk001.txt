@@ -1,9 +1,8 @@
-{
-"lives":[
-{"name":"live","url":"https://ghproxy.net/https://raw.githubusercontent.com/roydan886/A001/main/002.txt",
-"type":0,"playerType":1,"ua":"okhttp/3.12.13",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"}],
+//以下内容均引自网上,供个人使用！若有侵权和问题,请联系QQ:3036641846//备用爬虫程序
+//"spider":"https://agit.ai/lzhmh/pd/raw/branch/master/33.jar",
+//"spider":"https://out.zxglife.top/down.php/7c7281a78781bd352dfe9ca3e3293999.jar",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+//数据接口说明：{"key":"key_〔资源名称〕","name":"『资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义官源资源列表〕","〔自定义官源资源列表〕"] },
 {"spider":"https://gitee.com/hnkfmh/Mobtee/raw/master/fan.jar",
 
 //---------------以下复制---------2Unicom--agit.ai-----------
