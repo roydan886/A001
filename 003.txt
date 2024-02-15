@@ -1,4 +1,5 @@
 央视,#genre#
+测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://36.129.204.120:880/CCD303.m3u8
 CCTV-2,http://36.129.204.120:880/DX2.m3u8
 CCTV-3,http://36.129.204.120:880/DX101.m3u8
