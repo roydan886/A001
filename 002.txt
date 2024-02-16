@@ -79,6 +79,8 @@ CCTV15,mitv://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
 CCTV16,mitv://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
 CCTV17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
 卫视,#genre#
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
