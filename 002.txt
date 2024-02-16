@@ -7,7 +7,7 @@ CCTV4,http://36.129.204.120:880/DX4.m3u8
 CCTV5,http://36.129.204.120:880/DX99.m3u8
 CCTV5+,http://36.129.204.120:880/DX5.m3u8
 CCTV6,http://36.129.204.120:880/DX98.m3u8
-CCTV7 ,http://36.129.204.120:880/DX7.m3u8
+CCTV7,http://36.129.204.120:880/DX7.m3u8
 CCTV8,http://36.129.204.120:880/DX8.m3u8
 CCTV9,http://36.129.204.120:880/DX9.m3u8
 CCTV10,http://36.129.204.120:880/DX11.m3u8
@@ -46,7 +46,7 @@ CCTV4,http://mmitv.top/pltv/source.php?id=cctv4&token=d5845dd37ae2
 CCTV4欧洲,http://mmitv.top/pltv/source.php?id=cctv4oz&token=869a8956dc11
 CCTV4美洲,http://mmitv.top/pltv/source.php?id=cctv4mz&token=4ab90a17615c
 CCTV5,http://mmitv.top/pltv/source.php?id=cctv5&token=d4c83c19977f
-CCTV5P,http://mmitv.top/pltv/source.php?id=cctv5p&token=affd81ce70aa
+CCTV5+,http://mmitv.top/pltv/source.php?id=cctv5p&token=affd81ce70aa
 CCTV6,http://mmitv.top/pltv/source.php?id=cctv6&token=4ee7f1b4020d
 CCTV7,http://mmitv.top/pltv/source.php?id=cctv7&token=a31ce2d36558
 CCTV8,http://mmitv.top/pltv/source.php?id=cctv8&token=0e49e9f9e90a
@@ -59,9 +59,6 @@ CCTV14,http://mmitv.top/pltv/source.php?id=cctv14&token=b24409b1de9f
 CCTV15,http://mmitv.top/pltv/source.php?id=cctv15&token=8158abc69f7c
 CCTV16,http://mmitv.top/pltv/source.php?id=cctv16&token=ff2d4b39a33b
 CCTV17,http://mmitv.top/pltv/source.php?id=cctv17&token=2df955ef9bd6
-CETV1,http://mmitv.top/pltv/source.php?id=cetv1&token=5ec8c72e0248
-CETV2,http://mmitv.top/pltv/source.php?id=cetv2&token=484c4d77be64
-CETV4,http://mmitv.top/pltv/source.php?id=cetv4&token=c4106f759d92
 
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
