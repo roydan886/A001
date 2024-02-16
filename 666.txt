@@ -816,3 +816,6 @@ TVB星河,http://mmitv.top/pltv/source.php?id=tvbxh&token=0c15ba73c17b
 石家庄新闻综合,http://mmitv.top/pltv/source.php?id=sjzxwzh&token=64274afc01d0
 欢笑剧场4K-4K,http://mmitv.top/pltv/source.php?id=hxjc4k-4k&token=6af5139354c0
 CNA,http://mmitv.top/pltv/source.php?id=cna&token=68b36f7f8afb
+
+测试,#genre#
+测试,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
