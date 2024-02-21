@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
+https://www.yicai.com/api/dycj/liveIndex.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 540P
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
 #EXTINF:-1 ,CCTV1
 http://36.129.204.120:880/CCD303.m3u8
 #EXTINF:-1 ,CCTV2
@@ -127,3 +131,7 @@ http://36.129.204.120:880/dx107.m3u8
 http://172.16.51.254:880/huahan92.m3u8
 #EXTINF:-1 ,欢笑剧场
 http://36.129.204.120:880/dxhxjc.m3u8
+#EXTINF:-1 ,CCTV1
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
+#EXTINF:-1 ,CCTV13
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
