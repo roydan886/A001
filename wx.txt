@@ -2,7 +2,7 @@
 CCTV01综合,http://91tv.x3322.net:9921/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV02财经,http://91tv.x3322.net:9921/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV03综艺,http://91tv.x3322.net:9921/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV04中文国际,http://91tv.x3322.net:9921/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV04国际,http://91tv.x3322.net:9921/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV05体育,http://91tv.x3322.net:9921/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV05+体育,http://91tv.x3322.net:9921/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV06电影,http://91tv.x3322.net:9921/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -26,7 +26,7 @@ CCTV05+体育,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m
 CCTV06电影,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574301.m3u8
 CCTV07军农,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576201.m3u8
 CCTV08电视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576101.m3u8
-CCTV9纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576001.m3u8
+CCTV09纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576001.m3u8
 CCTV10科教,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022573001.m3u8
 CCTV11戏曲,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575901.m3u8
 CCTV12社会,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575801.m3u8
@@ -132,7 +132,6 @@ CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574701.m3u8
 
 省内,#genre#
 第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
-财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
