@@ -1,10 +1,28 @@
-📡央视频道👉天下,#genre#
+央视,#genre#
+CCTV01综合,http://91tv.x3322.net:9921/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV02财经,http://91tv.x3322.net:9921/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV03综艺,http://91tv.x3322.net:9921/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV04中文国际,http://91tv.x3322.net:9921/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV05体育,http://91tv.x3322.net:9921/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV05+体育,http://91tv.x3322.net:9921/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV06电影,http://91tv.x3322.net:9921/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV07军农,http://91tv.x3322.net:9921/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV08电视,http://91tv.x3322.net:9921/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV09纪录,http://91tv.x3322.net:9921/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://91tv.x3322.net:9921/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲,http://91tv.x3322.net:9921/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会,http://91tv.x3322.net:9921/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://91tv.x3322.net:9921/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://91tv.x3322.net:9921/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐,http://91tv.x3322.net:9921/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16奥林,http://91tv.x3322.net:9921/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV01综合,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576803.m3u8
 CCTV02财经,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576702.m3u8
 CCTV03综艺,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576501.m3u8
 CCTV04国际,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576601.m3u8
 CCTV05体育,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576401.m3u8
-CCTV05++台,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
+CCTV05+体育,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
 CCTV06电影,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574301.m3u8
 CCTV07军农,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576201.m3u8
 CCTV08电视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576101.m3u8
@@ -20,7 +38,35 @@ CCTV17农业,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575301.m3
 CCTV4K频道,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575202.m3u8
 CCTV8K频道,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2020603421.m3u8
 
-卫视频道,#genre#
+卫视,#genre#
+广东卫视,http://91tv.x3322.net:9921/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://91tv.x3322.net:9921/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://91tv.x3322.net:9921/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://91tv.x3322.net:9921/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://91tv.x3322.net:9921/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://91tv.x3322.net:9921/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://91tv.x3322.net:9921/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://91tv.x3322.net:9921/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://91tv.x3322.net:9921/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://91tv.x3322.net:9921/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://91tv.x3322.net:9921/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://91tv.x3322.net:9921/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://91tv.x3322.net:9921/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://91tv.x3322.net:9921/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://91tv.x3322.net:9921/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://91tv.x3322.net:9921/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://91tv.x3322.net:9921/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://91tv.x3322.net:9921/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://91tv.x3322.net:9921/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://91tv.x3322.net:9921/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://91tv.x3322.net:9921/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://91tv.x3322.net:9921/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://91tv.x3322.net:9921/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://91tv.x3322.net:9921/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://91tv.x3322.net:9921/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://91tv.x3322.net:9921/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://91tv.x3322.net:9921/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://91tv.x3322.net:9921/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000272103.m3u8
 东方卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000292403.m3u8
 天津卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2019927003.m3u8
@@ -84,7 +130,29 @@ CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574701.m3u8
 辽宁卫视,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
 云南卫视,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8
 
+省内,#genre#
+第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
 财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://91tv.x3322.net:9921/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+澳亚卫视,http://91tv.x3322.net:9921/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://91tv.x3322.net:9921/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://91tv.x3322.net:9921/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://91tv.x3322.net:9921/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://91tv.x3322.net:9921/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://91tv.x3322.net:9921/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+广州法治,http://91tv.x3322.net:9921/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+广州竞赛,http://91tv.x3322.net:9921/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+广州新闻,http://91tv.x3322.net:9921/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+广州影视,http://91tv.x3322.net:9921/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://91tv.x3322.net:9921/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://91tv.x3322.net:9921/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://91tv.x3322.net:9921/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://91tv.x3322.net:9921/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://91tv.x3322.net:9921/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 
     .  _7777,#genre#
 欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
