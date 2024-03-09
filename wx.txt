@@ -249,7 +249,7 @@ AXN台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssx
 东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
 
 省内,#genre#
-第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
+第一财经,https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1710076593-0-0-109b89df0fa0454d658ecbd92b10a4ea#https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1710076593-0-0-109b89df0fa0454d658ecbd92b10a4ea#https://www.yicai.com/api/dycj/liveIndex.m3u8
 财经资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 Channel V,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
